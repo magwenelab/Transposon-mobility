@@ -11,11 +11,10 @@
 **.psl
 
 ## Ignore data files
-#/DATA/*.png
-#/DATA/*.csv.gz
+./SCRIPTS/psltmp/*
 
 ## Ignore reference files
-#DATA/REFERENCE/**
+./REFERENCE/XL280*.fasta
 
 ## 
 **session.xml
