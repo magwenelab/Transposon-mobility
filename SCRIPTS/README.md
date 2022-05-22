@@ -6,6 +6,6 @@
 
 [Plot_TE](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Plot_TE.ipynb) : A python notebook for plotting results of blat submissions. 
 
-[Read_depth_of_isolates](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Read_depth_of_isolates.ipynb) : A python notebook formatting bwa and samtools for calculating genome-wide read depth across samples
+[Calculate_sample_depth](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Calculate_sample_depth.ipynb) : A python notebook formatting bwa and samtools commands for calculating genome-wide read depth across samples
 
-[bwa_XL280np.sh]() : Batch script of bwa and samtool commands for aligning sequenced reads.
+[bwa_XL280np.sh](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/bwa_XL280np.sh) : Batch script of bwa and samtool commands for aligning sequenced reads.
