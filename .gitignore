@@ -16,5 +16,5 @@ SCRIPTS/psltmp
 ## Ignore reference files
 ./REFERENCE/XL280*.fasta
 
-## 
+## Ignore any igv sessions 
 **session.xml
