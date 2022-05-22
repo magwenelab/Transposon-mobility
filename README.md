@@ -4,7 +4,7 @@ Collection of functions, scripts, and notebooks used in genome-wide analysis of 
 ## Dependicies
 
 ### BLAT
-Install the Blast Like Alignment Tool via conda:
+Install the [Blast-Like Alignment Tool](https://genome.cshlp.org/content/12/4/656.long) via conda:
 
     conda install -c bioconda blat
 
