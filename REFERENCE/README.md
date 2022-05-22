@@ -1,4 +1,4 @@
 # Genomic Reference Used
-An XL280, nano pore referance assembly was used in analysis.
+An XL280, nanopore referance assembly used in analysis.
 
 See manuscript for more detail.
