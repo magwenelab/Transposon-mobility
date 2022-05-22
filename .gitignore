@@ -11,7 +11,7 @@
 **.psl
 
 ## Ignore data files
-./SCRIPTS/psltmp/*
+SCRIPTS/psltmp
 
 ## Ignore reference files
 ./REFERENCE/XL280*.fasta
