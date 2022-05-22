@@ -13,8 +13,11 @@
 ## Ignore data files
 SCRIPTS/psltmp
 
+## Ignore fastq files
+/FASTQ/*.fastq.gz
+
 ## Ignore reference files
-./REFERENCE/XL280*.fasta
+/REFERENCE/XL280*.fasta
 
 ## Ignore any igv sessions 
 **session.xml
