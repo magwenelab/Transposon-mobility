@@ -7,6 +7,16 @@ Collection of functions, scripts, and notebooks used in genome-wide analysis of 
 Install the [Blast-Like Alignment Tool](https://genome.cshlp.org/content/12/4/656.long) via conda:
 
     conda install -c bioconda blat
+    
+### Samtools
+Install [samtools](www.htslib.org) via conda:
+
+    conda install -c bioconda samtools=1.3.1 
+
+### BWA
+Install [BWA](http://bio-bwa.sourceforge.net/) via conda:
+
+    conda install -c bioconda bwa=1.3.1
 
 ### Needed python packages
     
