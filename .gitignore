@@ -5,6 +5,9 @@
 **.bam
 **.bam.bai
 
+## Ignore large depth file
+DATA/SampleDepths.tsv.gz
+
 ## Ignore ipynb checkpoints and cached files
 **.ipynb_checkpoints
 **_pycache_**
