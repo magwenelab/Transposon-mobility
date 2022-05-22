@@ -1,0 +1,21 @@
+## Ignore test or old files
+**_test*
+**_old*
+**-Copy*.ipynb
+
+## Ignore ipynb checkpoints and cached files
+**.ipynb_checkpoints
+**_pycache_**
+
+## Ignore PSL files
+**.psl
+
+## Ignore data files
+#/DATA/*.png
+#/DATA/*.csv.gz
+
+## Ignore reference files
+#DATA/REFERENCE/**
+
+## 
+**session.xml
