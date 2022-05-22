@@ -16,6 +16,10 @@ SCRIPTS/psltmp
 ## Ignore fastq files
 /FASTQ/*.fastq.gz
 
+## Ignore figure files
+/FIGURES/*.png
+/FIGURES/*.pdf
+
 ## Ignore reference files
 /REFERENCE/XL280*.fasta
 
