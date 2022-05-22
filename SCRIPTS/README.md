@@ -8,4 +8,4 @@
 
 [Calculate_sample_depth](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Calculate_sample_depth.ipynb) : Formats bwa and samtools commands for calculating genome-wide read depth across samples
 
-[bwa_XL280np.sh](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/bwa_XL280np.sh) : Calls bwa and samtool commands to align sequenced reads and calculate depth.
+[bwa_XL280np](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/bwa_XL280np.sh) : Calls bwa and samtool commands to align sequenced reads and calculate depth.

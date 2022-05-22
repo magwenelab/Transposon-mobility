@@ -1,7 +1,9 @@
-## Ignore test or old files
+## Ignore test,  old files, or large bam files
 **_test*
 **_old*
 **-Copy*.ipynb
+**.bam
+**.bam.bai
 
 ## Ignore ipynb checkpoints and cached files
 **.ipynb_checkpoints
@@ -21,7 +23,10 @@ SCRIPTS/psltmp
 /FIGURES/*.pdf
 
 ## Ignore reference files
-/REFERENCE/XL280*.fasta
+/REFERENCE/XL280*
+
+## Ignore draft folder
+/DRAFTS/**
 
 ## Ignore any igv sessions 
 **session.xml
