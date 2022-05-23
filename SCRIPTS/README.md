@@ -6,7 +6,9 @@
 
 [Plot_TE](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Plot_TE.ipynb) : Plots results of blat submissions and TE searchs. 
 
-[Calculate_sample_depth](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Calculate_sample_depth.ipynb) : Formats bwa and samtools commands for calculating genome-wide read depth across samples
+[Calculate_sample_depth](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Calculate_sample_depth.ipynb) : Formats bwa and samtools commands for calculating genome-wide read depth across samples.
+
+[Plot_depth](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Plot_depth.ipynb) : Generates diagnostic plots of sequencing depth genome-wide per sample.
 
 [bwa_XL280np](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/bwa_XL280np.sh) : Calls bwa and samtool commands to align sequenced reads and calculate depth.
 
