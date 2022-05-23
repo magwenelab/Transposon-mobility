@@ -10,4 +10,6 @@
 
 [bwa_XL280np](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/bwa_XL280np.sh) : Calls bwa and samtool commands to align sequenced reads and calculate depth.
 
-[Checking_XL280_NP_GFF](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Checking_XL280_NP_GFF.ipynb) : Checks a few of the gene coding sequences of the XL280 GFF given example JEC21 genes.  
+[Checking_XL280_NP_GFF](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Checking_XL280_NP_GFF.ipynb) : Checks a few of the gene coding sequences of the XL280 nanopore GFF given example JEC21 genes.  
+
+[Distribution_of_tandom_genes_XL280_NP](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Distribution_of_tandom_genes_XL280_NP.ipynb) : Calculates the distributions of gene orientations within the XL280 nanopore GFF.
