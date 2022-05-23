@@ -18,7 +18,7 @@ Install [BWA](http://bio-bwa.sourceforge.net/) via conda:
 
     conda install -c bioconda bwa=1.3.1
 
-### Needed python packages
+### Python packages
     
     os 
     glob
