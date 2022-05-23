@@ -9,3 +9,5 @@
 [Calculate_sample_depth](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Calculate_sample_depth.ipynb) : Formats bwa and samtools commands for calculating genome-wide read depth across samples
 
 [bwa_XL280np](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/bwa_XL280np.sh) : Calls bwa and samtool commands to align sequenced reads and calculate depth.
+
+[Checking_XL280_NP_GFF](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Checking_XL280_NP_GFF.ipynb) : Checks a few of the gene coding sequences of the XL280 GFF given example JEC21 genes.  
