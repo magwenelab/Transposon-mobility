@@ -18,8 +18,8 @@
 [Distribution_of_tandom_genes_XL280_NP](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Distribution_of_tandom_genes_XL280_NP.ipynb) : Calculates the distributions of gene orientations within the XL280 nanopore GFF.
 
 
-[LocaTE_BLAT](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/LocaTE_BLAT.ipynb) : Formats and submits *blat* commands per sample and locates candidate transposable-element insertion sites.
+[LocaTE_BLAT](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/LocaTE_BLAT.ipynb) : Formats and submits *blat* commands per sample and locates candidate transposable element insertion sites.
 
 
-[Plot_TE](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Plot_TE.ipynb) : Plots results of *blat* submissions and searches for transposable-element insertion and deletion sites. 
+[Plot_TE](https://github.com/magwenelab/Transposon-mobility/blob/main/SCRIPTS/Plot_TE.ipynb) : Plots results of *blat* submissions and searches for transposable element insertion and deletion sites. 
 
